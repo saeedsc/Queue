@@ -1,0 +1,1 @@
+fully functional queue based on FIFO stack principle
